@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" >
+    
+	<CheckBoxPreference android:key="vibrate"
+	    android:title="Gyroscopic Feedback"
+	    android:summary="Vibrates when shooting" 
+	    android:defaultValue="true"/>
+	
+	
+<!-- 	<ListPreference -->
+<!-- 	    android:title="Specify Wavelength" -->
+<!-- 	    android:key="lasercolor" -->
+<!-- 	    android:summary="Choose Laser Color"  -->
+<!-- 	    android:entries="@array/colorlist"	     -->
+<!-- 	    android:entryValues="@array/colorvalues" /> -->
+	
+	
+	    
+</PreferenceScreen>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/ionbeam"
+          android:icon="@drawable/ic_launcher"        
+          android:title="Ion Beam" />
+    <item android:id="@+id/deathray" 
+        android:icon="@drawable/ic_launcher"          
+          android:title="Death Ray"/>
+    <item android:id="@+id/cannon"
+          android:icon="@drawable/ic_launcher"          
+          android:title="Impluse Cannon" />
+    <item android:id="@+id/rate"
+        android:icon="@android:drawable/ic_menu_mylocation"
+        android:title="Vibration"/>
+    <item android:id="@+id/share"
+        android:icon="@android:drawable/ic_menu_share"
+        android:title="Share"/>
+    <item android:id="@+id/rating"
+        android:icon="@drawable/rate"
+        android:title="Rate This App"/>    
+    <item android:id="@+id/reset"
+        android:icon="@android:drawable/ic_menu_share"
+        android:title="Reset Score"/>
+    <item android:id="@+id/toggle"
+        android:title="Hide Score"/>
+</menu>
